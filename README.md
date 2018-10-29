@@ -23,7 +23,7 @@
 7. Hale Ilkcakin
 8. Admir Kurtovic
 9. Ricardo Barba
-
+10. Ulises Uriel 
 
 # Hacktoberfest 2017 participants:
 1. Vitalii Leshchenko
@@ -60,3 +60,5 @@
 32. Ayush Jain
 33. shehani
 34. Pasan Jayawickrama
+35. Ulises Uriel Domínguez Pérez 
+36. Ricardo Barba
